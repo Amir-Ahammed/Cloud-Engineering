@@ -10,3 +10,11 @@ My primary focus is on **AWS Cloud**, with extended exploration into **Azure, Te
 - Build containerized environments using **Docker** and **Kubernetes** for orchestration
 - Strengthen cloud security through IAM best practices, encryption, monitoring, and compliance frameworks
 - Gain cross-cloud exposure to Azure and GCP for hybrid and multi-cloud understanding
+
+# Focus Areas
+- ☁️ **Cloud Infrastructure (AWS, Azure, GCP)**
+- 🛡️ **Cloud Security & Identity Management**
+- ⚙️ **Infrastructure as Code (Terraform, Ansible)**
+- 🐳 **Containers & Orchestration (Docker, Kubernetes)**
+- 🤖 **Automation & CI/CD (GitHub Actions, DevOps Pipelines)**
+- 🧠 **AI & Cloud Integration (Generative AI, LLM Workloads, Cloud AI Tools)**
